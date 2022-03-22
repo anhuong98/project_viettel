@@ -1,0 +1,5 @@
+export const ADD_FOOD = 'ADD_FOOD'
+export const DELETE_FOOD = 'DELETE_FOOD'
+export const ADD_ACCOUNT = 'ADD_ACCOUNT'
+export const DELETE_ACCOUNT= 'DELETE_ACCOUNT'
+export const EDIT_ACCOUNT = 'EDIT_ACCOUNT'
